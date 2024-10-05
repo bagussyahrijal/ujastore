@@ -1,16 +1,26 @@
-# ujastore
+# Ujastore
 
-A new Flutter project.
+Ujastore adalah aplikasi mobile yang dibangun menggunakan Flutter dan Dart, dirancang untuk memberikan pengalaman berbelanja yang sederhana dan efisien. Proyek ini masih dalam tahap pengembangan dan mengikuti pola arsitektur GetX.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Bagian banner promo di halaman utama
+- Daftar game dan produk
+- UI responsif dengan Flutter
+- Manajemen state menggunakan GetX
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Memulai
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prasyarat
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- IDE seperti [Visual Studio Code](https://code.visualstudio.com/) atau [Android Studio](https://developer.android.com/studio)
+
+### Instalasi
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/bagussyahrijal/ujastore.git
+2. cd ujastore
+3. flutter pub get
